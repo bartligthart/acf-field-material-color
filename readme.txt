@@ -13,7 +13,7 @@ Select a Material Color
 Select a Color from Google's Material Design color palette and output the hex code.
 
 Use it like this:
-`<span style="color: <?php the_field('color'); ?>>">Lorem Ipsum Dolar</span>`
+`<span style="color: <?php the_field('color'); ?>">Lorem Ipsum Dolar</span>`
 
 
 = Compatibility =
